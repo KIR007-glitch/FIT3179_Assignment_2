@@ -1,0 +1,43 @@
+#vg-tooltip-element tr:nth-child(odd) td:first-child {
+    font-weight: bold;
+    color: black;
+}
+
+#vg-tooltip-element tr:nth-child(even) td:first-child {
+    font-weight: bold;
+    color: black;
+}
+
+
+h1 {
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+h2 {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 40px;
+    color:rgb(227, 20, 86);
+}
+
+h3{
+    color:black;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(66, 66, 66);
+    margin-left: 120px;
+    padding-right: 200px;
+    font-size: 25px;
+    text-align: justify;
+}
+
+.graphic{
+    text-align: center;
+    margin-top:60px;
+    margin-bottom: 150px;
+}
+
+
+
+

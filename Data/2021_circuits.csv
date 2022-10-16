@@ -1,0 +1,23 @@
+circuitId,circuitRef,name_x,location,country,lat,lng,raceId,year,round,name_y
+3,bahrain,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,1052,2021,1,Bahrain Grand Prix
+4,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,1055,2021,4,Spanish Grand Prix
+5,istanbul,Istanbul Park,Istanbul,Turkey,40.9517,29.405,1067,2021,16,Turkish Grand Prix
+6,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,1056,2021,5,Monaco Grand Prix
+9,silverstone,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,1061,2021,10,British Grand Prix
+11,hungaroring,Hungaroring,Budapest,Hungary,47.5789,19.2486,1062,2021,11,Hungarian Grand Prix
+13,spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,1063,2021,12,Belgian Grand Prix
+14,monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,1065,2021,14,Italian Grand Prix
+18,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,1071,2021,19,São Paulo Grand Prix
+21,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,1053,2021,2,Emilia Romagna Grand Prix
+24,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,1073,2021,22,Abu Dhabi Grand Prix
+32,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,1070,2021,18,Mexico City Grand Prix
+34,ricard,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,1059,2021,7,French Grand Prix
+39,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,1064,2021,13,Dutch Grand Prix
+69,americas,Circuit of the Americas,Austin,USA,30.1328,-97.6411,1069,2021,17,United States Grand Prix
+70,red_bull_ring,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,1058,2021,8,Styrian Grand Prix
+70,red_bull_ring,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,1060,2021,9,Austrian Grand Prix
+71,sochi,Sochi Autodrom,Sochi,Russia,43.4057,39.9578,1066,2021,15,Russian Grand Prix
+73,baku,Baku City Circuit,Baku,Azerbaijan,40.3725,49.8533,1057,2021,6,Azerbaijan Grand Prix
+75,portimao,Autódromo Internacional do Algarve,Portimão,Portugal,37.227,-8.6267,1054,2021,3,Portuguese Grand Prix
+77,jeddah,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,21.6319,39.1044,1072,2021,21,Saudi Arabian Grand Prix
+78,losail,Losail International Circuit,Al Daayen,Qatar,25.49,51.4542,1051,2021,20,Qatar Grand Prix

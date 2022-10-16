@@ -1,0 +1,221 @@
+raceId,round,name_x,constructorId,points,constructorRef,name_y
+1052,1,Bahrain Grand Prix,3,0.0,williams,Williams
+1053,2,Emilia Romagna Grand Prix,3,0.0,williams,Williams
+1054,3,Portuguese Grand Prix,3,0.0,williams,Williams
+1055,4,Spanish Grand Prix,3,0.0,williams,Williams
+1056,5,Monaco Grand Prix,3,0.0,williams,Williams
+1057,6,Azerbaijan Grand Prix,3,0.0,williams,Williams
+1059,7,French Grand Prix,3,0.0,williams,Williams
+1058,8,Styrian Grand Prix,3,0.0,williams,Williams
+1060,9,Austrian Grand Prix,3,0.0,williams,Williams
+1061,10,British Grand Prix,3,0.0,williams,Williams
+1062,11,Hungarian Grand Prix,3,10.0,williams,Williams
+1063,12,Belgian Grand Prix,3,10.0,williams,Williams
+1064,13,Dutch Grand Prix,3,0.0,williams,Williams
+1065,14,Italian Grand Prix,3,2.0,williams,Williams
+1066,15,Russian Grand Prix,3,1.0,williams,Williams
+1067,16,Turkish Grand Prix,3,0.0,williams,Williams
+1069,17,United States Grand Prix,3,0.0,williams,Williams
+1070,18,Mexico City Grand Prix,3,0.0,williams,Williams
+1071,19,São Paulo Grand Prix,3,0.0,williams,Williams
+1051,20,Qatar Grand Prix,3,0.0,williams,Williams
+1072,21,Saudi Arabian Grand Prix,3,0.0,williams,Williams
+1073,22,Abu Dhabi Grand Prix,3,0.0,williams,Williams
+1052,1,Bahrain Grand Prix,131,41.0,mercedes,Mercedes
+1053,2,Emilia Romagna Grand Prix,131,19.0,mercedes,Mercedes
+1054,3,Portuguese Grand Prix,131,41.0,mercedes,Mercedes
+1055,4,Spanish Grand Prix,131,40.0,mercedes,Mercedes
+1056,5,Monaco Grand Prix,131,7.0,mercedes,Mercedes
+1057,6,Azerbaijan Grand Prix,131,0.0,mercedes,Mercedes
+1059,7,French Grand Prix,131,30.0,mercedes,Mercedes
+1058,8,Styrian Grand Prix,131,34.0,mercedes,Mercedes
+1060,9,Austrian Grand Prix,131,30.0,mercedes,Mercedes
+1061,10,British Grand Prix,131,43.0,mercedes,Mercedes
+1062,11,Hungarian Grand Prix,131,18.0,mercedes,Mercedes
+1063,12,Belgian Grand Prix,131,7.5,mercedes,Mercedes
+1064,13,Dutch Grand Prix,131,34.0,mercedes,Mercedes
+1065,14,Italian Grand Prix,131,18.0,mercedes,Mercedes
+1066,15,Russian Grand Prix,131,35.0,mercedes,Mercedes
+1067,16,Turkish Grand Prix,131,36.0,mercedes,Mercedes
+1069,17,United States Grand Prix,131,27.0,mercedes,Mercedes
+1070,18,Mexico City Grand Prix,131,18.0,mercedes,Mercedes
+1071,19,São Paulo Grand Prix,131,43.0,mercedes,Mercedes
+1051,20,Qatar Grand Prix,131,25.0,mercedes,Mercedes
+1072,21,Saudi Arabian Grand Prix,131,41.0,mercedes,Mercedes
+1073,22,Abu Dhabi Grand Prix,131,26.0,mercedes,Mercedes
+1052,1,Bahrain Grand Prix,9,28.0,red_bull,Red Bull
+1053,2,Emilia Romagna Grand Prix,9,25.0,red_bull,Red Bull
+1054,3,Portuguese Grand Prix,9,30.0,red_bull,Red Bull
+1055,4,Spanish Grand Prix,9,29.0,red_bull,Red Bull
+1056,5,Monaco Grand Prix,9,37.0,red_bull,Red Bull
+1057,6,Azerbaijan Grand Prix,9,25.0,red_bull,Red Bull
+1059,7,French Grand Prix,9,41.0,red_bull,Red Bull
+1058,8,Styrian Grand Prix,9,37.0,red_bull,Red Bull
+1060,9,Austrian Grand Prix,9,34.0,red_bull,Red Bull
+1061,10,British Grand Prix,9,3.0,red_bull,Red Bull
+1062,11,Hungarian Grand Prix,9,2.0,red_bull,Red Bull
+1063,12,Belgian Grand Prix,9,12.5,red_bull,Red Bull
+1064,13,Dutch Grand Prix,9,29.0,red_bull,Red Bull
+1065,14,Italian Grand Prix,9,12.0,red_bull,Red Bull
+1066,15,Russian Grand Prix,9,20.0,red_bull,Red Bull
+1067,16,Turkish Grand Prix,9,33.0,red_bull,Red Bull
+1069,17,United States Grand Prix,9,40.0,red_bull,Red Bull
+1070,18,Mexico City Grand Prix,9,40.0,red_bull,Red Bull
+1071,19,São Paulo Grand Prix,9,33.0,red_bull,Red Bull
+1051,20,Qatar Grand Prix,9,31.0,red_bull,Red Bull
+1072,21,Saudi Arabian Grand Prix,9,18.0,red_bull,Red Bull
+1073,22,Abu Dhabi Grand Prix,9,26.0,red_bull,Red Bull
+1052,1,Bahrain Grand Prix,51,0.0,alfa,Alfa Romeo
+1053,2,Emilia Romagna Grand Prix,51,0.0,alfa,Alfa Romeo
+1054,3,Portuguese Grand Prix,51,0.0,alfa,Alfa Romeo
+1055,4,Spanish Grand Prix,51,0.0,alfa,Alfa Romeo
+1056,5,Monaco Grand Prix,51,1.0,alfa,Alfa Romeo
+1057,6,Azerbaijan Grand Prix,51,1.0,alfa,Alfa Romeo
+1059,7,French Grand Prix,51,0.0,alfa,Alfa Romeo
+1058,8,Styrian Grand Prix,51,0.0,alfa,Alfa Romeo
+1060,9,Austrian Grand Prix,51,0.0,alfa,Alfa Romeo
+1061,10,British Grand Prix,51,0.0,alfa,Alfa Romeo
+1062,11,Hungarian Grand Prix,51,1.0,alfa,Alfa Romeo
+1063,12,Belgian Grand Prix,51,0.0,alfa,Alfa Romeo
+1064,13,Dutch Grand Prix,51,0.0,alfa,Alfa Romeo
+1065,14,Italian Grand Prix,51,0.0,alfa,Alfa Romeo
+1066,15,Russian Grand Prix,51,4.0,alfa,Alfa Romeo
+1067,16,Turkish Grand Prix,51,0.0,alfa,Alfa Romeo
+1069,17,United States Grand Prix,51,0.0,alfa,Alfa Romeo
+1070,18,Mexico City Grand Prix,51,4.0,alfa,Alfa Romeo
+1071,19,São Paulo Grand Prix,51,0.0,alfa,Alfa Romeo
+1051,20,Qatar Grand Prix,51,0.0,alfa,Alfa Romeo
+1072,21,Saudi Arabian Grand Prix,51,2.0,alfa,Alfa Romeo
+1073,22,Abu Dhabi Grand Prix,51,0.0,alfa,Alfa Romeo
+1052,1,Bahrain Grand Prix,210,0.0,haas,Haas F1 Team
+1053,2,Emilia Romagna Grand Prix,210,0.0,haas,Haas F1 Team
+1054,3,Portuguese Grand Prix,210,0.0,haas,Haas F1 Team
+1055,4,Spanish Grand Prix,210,0.0,haas,Haas F1 Team
+1056,5,Monaco Grand Prix,210,0.0,haas,Haas F1 Team
+1057,6,Azerbaijan Grand Prix,210,0.0,haas,Haas F1 Team
+1059,7,French Grand Prix,210,0.0,haas,Haas F1 Team
+1058,8,Styrian Grand Prix,210,0.0,haas,Haas F1 Team
+1060,9,Austrian Grand Prix,210,0.0,haas,Haas F1 Team
+1061,10,British Grand Prix,210,0.0,haas,Haas F1 Team
+1062,11,Hungarian Grand Prix,210,0.0,haas,Haas F1 Team
+1063,12,Belgian Grand Prix,210,0.0,haas,Haas F1 Team
+1064,13,Dutch Grand Prix,210,0.0,haas,Haas F1 Team
+1065,14,Italian Grand Prix,210,0.0,haas,Haas F1 Team
+1066,15,Russian Grand Prix,210,0.0,haas,Haas F1 Team
+1067,16,Turkish Grand Prix,210,0.0,haas,Haas F1 Team
+1069,17,United States Grand Prix,210,0.0,haas,Haas F1 Team
+1070,18,Mexico City Grand Prix,210,0.0,haas,Haas F1 Team
+1071,19,São Paulo Grand Prix,210,0.0,haas,Haas F1 Team
+1051,20,Qatar Grand Prix,210,0.0,haas,Haas F1 Team
+1072,21,Saudi Arabian Grand Prix,210,0.0,haas,Haas F1 Team
+1073,22,Abu Dhabi Grand Prix,210,0.0,haas,Haas F1 Team
+1052,1,Bahrain Grand Prix,1,18.0,mclaren,McLaren
+1053,2,Emilia Romagna Grand Prix,1,23.0,mclaren,McLaren
+1054,3,Portuguese Grand Prix,1,12.0,mclaren,McLaren
+1055,4,Spanish Grand Prix,1,12.0,mclaren,McLaren
+1056,5,Monaco Grand Prix,1,15.0,mclaren,McLaren
+1057,6,Azerbaijan Grand Prix,1,12.0,mclaren,McLaren
+1059,7,French Grand Prix,1,18.0,mclaren,McLaren
+1058,8,Styrian Grand Prix,1,10.0,mclaren,McLaren
+1060,9,Austrian Grand Prix,1,21.0,mclaren,McLaren
+1061,10,British Grand Prix,1,22.0,mclaren,McLaren
+1062,11,Hungarian Grand Prix,1,0.0,mclaren,McLaren
+1063,12,Belgian Grand Prix,1,6.0,mclaren,McLaren
+1064,13,Dutch Grand Prix,1,1.0,mclaren,McLaren
+1065,14,Italian Grand Prix,1,45.0,mclaren,McLaren
+1066,15,Russian Grand Prix,1,19.0,mclaren,McLaren
+1067,16,Turkish Grand Prix,1,6.0,mclaren,McLaren
+1069,17,United States Grand Prix,1,14.0,mclaren,McLaren
+1070,18,Mexico City Grand Prix,1,1.0,mclaren,McLaren
+1071,19,São Paulo Grand Prix,1,1.0,mclaren,McLaren
+1051,20,Qatar Grand Prix,1,2.0,mclaren,McLaren
+1072,21,Saudi Arabian Grand Prix,1,11.0,mclaren,McLaren
+1073,22,Abu Dhabi Grand Prix,1,6.0,mclaren,McLaren
+1052,1,Bahrain Grand Prix,214,0.0,alpine,Alpine F1 Team
+1053,2,Emilia Romagna Grand Prix,214,3.0,alpine,Alpine F1 Team
+1054,3,Portuguese Grand Prix,214,10.0,alpine,Alpine F1 Team
+1055,4,Spanish Grand Prix,214,2.0,alpine,Alpine F1 Team
+1056,5,Monaco Grand Prix,214,2.0,alpine,Alpine F1 Team
+1057,6,Azerbaijan Grand Prix,214,8.0,alpine,Alpine F1 Team
+1059,7,French Grand Prix,214,4.0,alpine,Alpine F1 Team
+1058,8,Styrian Grand Prix,214,2.0,alpine,Alpine F1 Team
+1060,9,Austrian Grand Prix,214,1.0,alpine,Alpine F1 Team
+1061,10,British Grand Prix,214,8.0,alpine,Alpine F1 Team
+1062,11,Hungarian Grand Prix,214,37.0,alpine,Alpine F1 Team
+1063,12,Belgian Grand Prix,214,3.0,alpine,Alpine F1 Team
+1064,13,Dutch Grand Prix,214,10.0,alpine,Alpine F1 Team
+1065,14,Italian Grand Prix,214,5.0,alpine,Alpine F1 Team
+1066,15,Russian Grand Prix,214,8.0,alpine,Alpine F1 Team
+1067,16,Turkish Grand Prix,214,1.0,alpine,Alpine F1 Team
+1069,17,United States Grand Prix,214,0.0,alpine,Alpine F1 Team
+1070,18,Mexico City Grand Prix,214,2.0,alpine,Alpine F1 Team
+1071,19,São Paulo Grand Prix,214,6.0,alpine,Alpine F1 Team
+1051,20,Qatar Grand Prix,214,25.0,alpine,Alpine F1 Team
+1072,21,Saudi Arabian Grand Prix,214,12.0,alpine,Alpine F1 Team
+1073,22,Abu Dhabi Grand Prix,214,6.0,alpine,Alpine F1 Team
+1052,1,Bahrain Grand Prix,117,1.0,aston_martin,Aston Martin
+1053,2,Emilia Romagna Grand Prix,117,4.0,aston_martin,Aston Martin
+1054,3,Portuguese Grand Prix,117,0.0,aston_martin,Aston Martin
+1055,4,Spanish Grand Prix,117,0.0,aston_martin,Aston Martin
+1056,5,Monaco Grand Prix,117,14.0,aston_martin,Aston Martin
+1057,6,Azerbaijan Grand Prix,117,18.0,aston_martin,Aston Martin
+1059,7,French Grand Prix,117,3.0,aston_martin,Aston Martin
+1058,8,Styrian Grand Prix,117,4.0,aston_martin,Aston Martin
+1060,9,Austrian Grand Prix,117,0.0,aston_martin,Aston Martin
+1061,10,British Grand Prix,117,4.0,aston_martin,Aston Martin
+1062,11,Hungarian Grand Prix,117,0.0,aston_martin,Aston Martin
+1063,12,Belgian Grand Prix,117,5.0,aston_martin,Aston Martin
+1064,13,Dutch Grand Prix,117,0.0,aston_martin,Aston Martin
+1065,14,Italian Grand Prix,117,6.0,aston_martin,Aston Martin
+1066,15,Russian Grand Prix,117,0.0,aston_martin,Aston Martin
+1067,16,Turkish Grand Prix,117,2.0,aston_martin,Aston Martin
+1069,17,United States Grand Prix,117,1.0,aston_martin,Aston Martin
+1070,18,Mexico City Grand Prix,117,6.0,aston_martin,Aston Martin
+1071,19,São Paulo Grand Prix,117,0.0,aston_martin,Aston Martin
+1051,20,Qatar Grand Prix,117,9.0,aston_martin,Aston Martin
+1072,21,Saudi Arabian Grand Prix,117,0.0,aston_martin,Aston Martin
+1073,22,Abu Dhabi Grand Prix,117,0.0,aston_martin,Aston Martin
+1052,1,Bahrain Grand Prix,213,2.0,alphatauri,AlphaTauri
+1053,2,Emilia Romagna Grand Prix,213,6.0,alphatauri,AlphaTauri
+1054,3,Portuguese Grand Prix,213,1.0,alphatauri,AlphaTauri
+1055,4,Spanish Grand Prix,213,1.0,alphatauri,AlphaTauri
+1056,5,Monaco Grand Prix,213,8.0,alphatauri,AlphaTauri
+1057,6,Azerbaijan Grand Prix,213,21.0,alphatauri,AlphaTauri
+1059,7,French Grand Prix,213,6.0,alphatauri,AlphaTauri
+1058,8,Styrian Grand Prix,213,1.0,alphatauri,AlphaTauri
+1060,9,Austrian Grand Prix,213,2.0,alphatauri,AlphaTauri
+1061,10,British Grand Prix,213,1.0,alphatauri,AlphaTauri
+1062,11,Hungarian Grand Prix,213,19.0,alphatauri,AlphaTauri
+1063,12,Belgian Grand Prix,213,4.0,alphatauri,AlphaTauri
+1064,13,Dutch Grand Prix,213,12.0,alphatauri,AlphaTauri
+1065,14,Italian Grand Prix,213,0.0,alphatauri,AlphaTauri
+1066,15,Russian Grand Prix,213,0.0,alphatauri,AlphaTauri
+1067,16,Turkish Grand Prix,213,8.0,alphatauri,AlphaTauri
+1069,17,United States Grand Prix,213,2.0,alphatauri,AlphaTauri
+1070,18,Mexico City Grand Prix,213,12.0,alphatauri,AlphaTauri
+1071,19,São Paulo Grand Prix,213,6.0,alphatauri,AlphaTauri
+1051,20,Qatar Grand Prix,213,0.0,alphatauri,AlphaTauri
+1072,21,Saudi Arabian Grand Prix,213,8.0,alphatauri,AlphaTauri
+1073,22,Abu Dhabi Grand Prix,213,22.0,alphatauri,AlphaTauri
+1052,1,Bahrain Grand Prix,6,12.0,ferrari,Ferrari
+1053,2,Emilia Romagna Grand Prix,6,22.0,ferrari,Ferrari
+1054,3,Portuguese Grand Prix,6,8.0,ferrari,Ferrari
+1055,4,Spanish Grand Prix,6,18.0,ferrari,Ferrari
+1056,5,Monaco Grand Prix,6,18.0,ferrari,Ferrari
+1057,6,Azerbaijan Grand Prix,6,16.0,ferrari,Ferrari
+1059,7,French Grand Prix,6,0.0,ferrari,Ferrari
+1058,8,Styrian Grand Prix,6,14.0,ferrari,Ferrari
+1060,9,Austrian Grand Prix,6,14.0,ferrari,Ferrari
+1061,10,British Grand Prix,6,26.0,ferrari,Ferrari
+1062,11,Hungarian Grand Prix,6,15.0,ferrari,Ferrari
+1063,12,Belgian Grand Prix,6,2.5,ferrari,Ferrari
+1064,13,Dutch Grand Prix,6,16.0,ferrari,Ferrari
+1065,14,Italian Grand Prix,6,20.0,ferrari,Ferrari
+1066,15,Russian Grand Prix,6,15.0,ferrari,Ferrari
+1067,16,Turkish Grand Prix,6,16.0,ferrari,Ferrari
+1069,17,United States Grand Prix,6,18.0,ferrari,Ferrari
+1070,18,Mexico City Grand Prix,6,18.0,ferrari,Ferrari
+1071,19,São Paulo Grand Prix,6,19.0,ferrari,Ferrari
+1051,20,Qatar Grand Prix,6,10.0,ferrari,Ferrari
+1072,21,Saudi Arabian Grand Prix,6,10.0,ferrari,Ferrari
+1073,22,Abu Dhabi Grand Prix,6,16.0,ferrari,Ferrari
